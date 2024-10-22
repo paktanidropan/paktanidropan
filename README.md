@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @paktanidropan
-- 👀 I’m interested in WEB3 DAO Technology
+- 👋 Hi, I’m ...
+- 👀 I’m a web3 newcomers
 - 🌱 I’m currently learning HTML, CSS & Javascript
 
 <!---
